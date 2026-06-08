@@ -3,6 +3,11 @@ Fractional CTO | Full Stack Engineer | AI & SaaS Product Builder
 
 I help startups and businesses transform ideas into scalable products.
 
+![Fractional CTO](https://img.shields.io/badge/Fractional%20CTO-000000?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Engineer-0A66C2?style=for-the-badge)
+![AI Builder](https://img.shields.io/badge/AI%20Builder-FF6F00?style=for-the-badge)
+![SaaS Architect](https://img.shields.io/badge/SaaS%20Architect-2E8B57?style=for-the-badge)
+
 With 10+ years of experience in software development, product strategy, and technical leadership, I have worked with founders, startups, and enterprises to build MVPs, scale platforms, and create systems that support rapid growth.
 
 🚀 What I Do
@@ -12,7 +17,9 @@ Create Marketplaces & Multi-Tenant Applications
 Design Scalable Cloud Architectures
 Lead Product Development as a Fractional CTO
 Help Startups Prepare for Funding & Scale
+
 💼 Experience
+
 Helped startups secure funding by building investor-ready MVPs
 Worked with multiple six-figure startups and scaling businesses
 Built products serving thousands of users
@@ -21,6 +28,7 @@ Led development teams and product execution from concept to launch
 Extensive experience working with startups, founders, and product teams
 
 🛠️ Tech Stack
+
 Frontend
 React.js
 Next.js
@@ -28,6 +36,7 @@ TypeScript
 React Native
 Tailwind CSS
 Material UI
+
 Backend
 Node.js
 Express.js
